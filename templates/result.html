@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ food_name }} Recipe</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; }
+        img { max-width: 100%; height: auto; border-radius: 8px; }
+        .confidence { color: #4CAF50; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>{{ food_name }}</h1>
+    <p>Confidence: <span class="confidence">{{ confidence }}</span></p>
+    <img src="/static/uploads/{{ image }}" alt="{{ food_name }}">
+
+    <h2>Ingredients</h2>
+    <ul>
+        {% for item in recipe.ingredients %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+        {% for step in recipe.instructions %}
+        <li>{{ step }}</li>
+        {% endfor %}
+    </ol>
+
+    <a href="/">← Try another image</a>
+</body>
+</html>

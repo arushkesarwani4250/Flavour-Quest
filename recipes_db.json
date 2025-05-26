@@ -1,0 +1,310 @@
+{
+    "pizza": {
+        "title": "Homemade Pizza",
+        "ingredients": [
+            "Pizza dough",
+            "Tomato sauce",
+            "Mozzarella cheese",
+            "Toppings of your choice"
+        ],
+        "instructions": [
+            "Preheat oven to 475°F (245°C)",
+            "Roll out the dough on a floured surface",
+            "Spread tomato sauce evenly",
+            "Add cheese and toppings",
+            "Bake for 12-15 minutes"
+        ]
+    },
+    "burger": {
+        "title": "Classic Burger",
+        "ingredients": [
+            "Burger buns",
+            "Beef patty",
+            "Lettuce",
+            "Tomato",
+            "Cheese",
+            "Condiments"
+        ],
+        "instructions": [
+            "Season and grill the patty",
+            "Toast the buns lightly",
+            "Assemble with toppings",
+            "Serve immediately"
+        ]
+    },
+    "sushi": {
+        "title": "California Roll",
+        "ingredients": [
+            "Sushi rice",
+            "Nori seaweed",
+            "Crab meat",
+            "Avocado",
+            "Cucumber"
+        ],
+        "instructions": [
+            "Spread rice on nori sheet",
+            "Add fillings in center",
+            "Roll tightly using bamboo mat",
+            "Slice into pieces"
+        ]
+    },
+    "butter chicken": {
+        "title": "Butter Chicken (Murgh Makhani)",
+        "ingredients": [
+            "500g boneless chicken",
+            "1 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp turmeric",
+            "2 tsp garam masala",
+            "2 tbsp butter",
+            "1 cup tomato puree",
+            "1/2 cup fresh cream",
+            "1 tsp kasuri methi",
+            "Salt to taste"
+        ],
+        "instructions": [
+            "Marinate chicken in yogurt, ginger-garlic paste, turmeric and 1 tsp garam masala for 2 hours",
+            "Grill or pan-fry chicken until cooked",
+            "In a pan, melt butter and add tomato puree. Cook for 5 minutes",
+            "Add cream, remaining garam masala, and kasuri methi",
+            "Add cooked chicken and simmer for 10 minutes",
+            "Garnish with fresh cream and serve with naan"
+        ]
+    },
+    "biryani": {
+        "title": "Hyderabadi Chicken Biryani",
+        "ingredients": [
+            "2 cups basmati rice",
+            "500g chicken",
+            "1 cup fried onions",
+            "1/2 cup yogurt",
+            "2 tbsp ginger-garlic paste",
+            "1 tsp turmeric",
+            "2 tbsp biryani masala",
+            "4 cloves",
+            "2 bay leaves",
+            "1 inch cinnamon",
+            "4 green cardamoms",
+            "1/2 cup mint leaves",
+            "1/2 cup coriander leaves",
+            "Saffron soaked in milk",
+            "4 tbsp ghee"
+        ],
+        "instructions": [
+            "Soak rice for 30 minutes. Parboil with whole spices",
+            "Marinate chicken in yogurt, ginger-garlic paste, turmeric and biryani masala for 1 hour",
+            "In a heavy-bottomed pot, layer half the rice, then chicken, fried onions, mint and coriander",
+            "Top with remaining rice and saffron milk",
+            "Seal with dough or foil and cook on dum (low heat) for 25 minutes",
+            "Mix gently before serving with raita"
+        ]
+    },
+    "dosa": {
+        "title": "Masala Dosa",
+        "ingredients": [
+            "2 cups rice",
+            "1 cup urad dal",
+            "1/2 tsp fenugreek seeds",
+            "Salt to taste",
+            "Oil for cooking",
+            "For potato filling:",
+            "4 boiled potatoes",
+            "1 chopped onion",
+            "1 tsp mustard seeds",
+            "1 tsp turmeric",
+            "2 green chilies",
+            "Few curry leaves"
+        ],
+        "instructions": [
+            "Soak rice, dal and fenugreek for 6 hours. Grind to smooth batter",
+            "Ferment overnight (8-10 hours)",
+            "For filling: Temper mustard seeds, add onions, chilies, curry leaves",
+            "Add mashed potatoes, turmeric and salt. Mix well",
+            "Spread dosa batter on hot tawa, drizzle oil, cook until crisp",
+            "Add potato filling, fold and serve with chutney and sambar"
+        ]
+    },
+    "paneer tikka": {
+        "title": "Paneer Tikka",
+        "ingredients": [
+            "250g paneer cubes",
+            "1 cup yogurt",
+            "2 tbsp besan (gram flour)",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp garam masala",
+            "1 tsp chaat masala",
+            "1 tsp red chili powder",
+            "1 capsicum (diced)",
+            "1 onion (diced)",
+            "2 tbsp mustard oil"
+        ],
+        "instructions": [
+            "Mix yogurt, besan and all spices to make marinade",
+            "Add paneer and vegetables. Marinate for 1 hour",
+            "Skewer alternating pieces of paneer and vegetables",
+            "Brush with oil and grill in oven or tandoor for 10-12 minutes",
+            "Sprinkle chaat masala and serve with mint chutney"
+        ]
+    },
+    "dal tadka": {
+        "title": "Dal Tadka",
+        "ingredients": [
+            "1 cup toor dal",
+            "2 tomatoes (chopped)",
+            "1 onion (chopped)",
+            "1 tsp turmeric",
+            "1 tsp red chili powder",
+            "1 tsp cumin seeds",
+            "2 dried red chilies",
+            "1 tbsp ghee",
+            "1 tsp garam masala",
+            "Fresh coriander"
+        ],
+        "instructions": [
+            "Pressure cook dal with turmeric until soft",
+            "In a pan, heat ghee and temper cumin seeds and red chilies",
+            "Add onions, sauté until golden. Add tomatoes and spices",
+            "Mix in cooked dal and simmer for 5 minutes",
+            "Finish with garam masala and fresh coriander",
+            "Serve hot with rice or roti"
+        ]
+    },
+    "pav bhaji": {
+        "title": "Mumbai Pav Bhaji",
+        "ingredients": [
+            "3 boiled potatoes",
+            "1 cup mixed vegetables (peas, carrots, cauliflower)",
+            "2 onions (finely chopped)",
+            "2 tomatoes (pureed)",
+            "1 capsicum (finely chopped)",
+            "2 tbsp pav bhaji masala",
+            "1 tsp red chili powder",
+            "Butter for cooking",
+            "8 pav (bread rolls)",
+            "Lemon wedges"
+        ],
+        "instructions": [
+            "Mash all boiled vegetables together",
+            "In a large tawa, melt butter and sauté onions until translucent",
+            "Add capsicum, cook for 2 minutes. Add tomato puree and cook until oil separates",
+            "Add mashed vegetables, pav bhaji masala, chili powder and salt",
+            "Mash everything together while cooking for 10 minutes",
+            "Toast pav in butter and serve with bhaji, onions and lemon"
+        ]
+    },
+    "chole bhature": {
+        "title": "Chole Bhature",
+        "ingredients": [
+            "1 cup chickpeas (soaked overnight)",
+            "2 tea bags (for dark color)",
+            "1 tbsp ginger-garlic paste",
+            "2 onions (pureed)",
+            "2 tomatoes (pureed)",
+            "1 tbsp chole masala",
+            "1 tsp amchur powder",
+            "For bhature:",
+            "2 cups maida",
+            "1/2 cup yogurt",
+            "1 tsp sugar",
+            "Oil for frying"
+        ],
+        "instructions": [
+            "Pressure cook chickpeas with tea bags until soft",
+            "In a pan, sauté onion puree until brown. Add ginger-garlic paste and tomato puree",
+            "Add all spices and cooked chickpeas. Simmer for 15 minutes",
+            "For bhature: Knead soft dough with maida, yogurt, sugar and salt",
+            "Rest for 2 hours. Roll into circles and deep fry until puffed",
+            "Serve hot chole with bhature and pickled onions"
+        ]
+    },
+    "idli sambar": {
+        "title": "Idli with Sambar",
+        "ingredients": [
+            "2 cups idli rice",
+            "1 cup urad dal",
+            "1/2 tsp fenugreek seeds",
+            "Salt to taste",
+            "For sambar:",
+            "1/2 cup toor dal",
+            "1 cup mixed vegetables",
+            "2 tbsp sambar powder",
+            "1 tsp tamarind paste",
+            "1/2 tsp mustard seeds",
+            "Few curry leaves"
+        ],
+        "instructions": [
+            "Soak rice and dal separately for 4 hours. Grind to smooth batter",
+            "Ferment overnight. Pour into idli molds and steam for 10 minutes",
+            "For sambar: Cook dal and vegetables together until soft",
+            "Add sambar powder, tamarind and salt. Simmer for 5 minutes",
+            "Temper mustard seeds and curry leaves in oil. Add to sambar",
+            "Serve hot idlis with sambar and coconut chutney"
+        ]
+    },
+    "rajma chawal": {
+        "title": "Rajma Chawal",
+        "ingredients": [
+            "1 cup rajma (kidney beans)",
+            "2 onions (finely chopped)",
+            "2 tomatoes (pureed)",
+            "1 tbsp ginger-garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "2 tbsp oil",
+            "Fresh coriander",
+            "Steamed rice"
+        ],
+        "instructions": [
+            "Soak rajma overnight. Pressure cook until tender",
+            "Heat oil, temper cumin seeds. Add onions and sauté until golden",
+            "Add ginger-garlic paste, then tomato puree. Cook until oil separates",
+            "Add all spices and cooked rajma. Simmer for 15 minutes",
+            "Garnish with fresh coriander and serve with steamed rice"
+        ]
+    },
+    "vada pav": {
+        "title": "Mumbai Vada Pav",
+        "ingredients": [
+            "4 potatoes (boiled and mashed)",
+            "1 tsp mustard seeds",
+            "1 tsp turmeric",
+            "2 green chilies (finely chopped)",
+            "Few curry leaves",
+            "1.5 cups besan (gram flour)",
+            "1/2 tsp baking soda",
+            "8 pav (bread rolls)",
+            "Garlic chutney",
+            "Tamarind chutney"
+        ],
+        "instructions": [
+            "For vada: Temper mustard seeds, add curry leaves and green chilies",
+            "Add mashed potatoes, turmeric and salt. Mix well and make balls",
+            "Make batter with besan, baking soda and water (pancake consistency)",
+            "Dip potato balls in batter and deep fry until golden",
+            "Slice pav, spread chutneys, place vada inside",
+            "Serve with fried green chilies"
+        ]
+    },
+    "masala chai": {
+        "title": "Masala Chai",
+        "ingredients": [
+            "2 cups water",
+            "1 cup milk",
+            "2 tsp tea leaves",
+            "1 inch ginger (crushed)",
+            "4-5 tulsi leaves",
+            "2 green cardamoms",
+            "1 inch cinnamon",
+            "2 cloves",
+            "Sugar to taste"
+        ],
+        "instructions": [
+            "Boil water with all whole spices for 3-4 minutes",
+            "Add tea leaves and boil for 1 minute",
+            "Add milk and bring to boil. Strain into cups",
+            "Adjust sugar as per taste",
+            "Serve hot with snacks"
+        ]
+    }
+}

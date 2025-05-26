@@ -1,0 +1,48 @@
+/* [Previous CSS remains the same] */
+
+/* Add these new styles */
+.search-container {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.search-box {
+    display: flex;
+    max-width: 600px;
+    margin: 1rem auto 0;
+}
+
+.search-box input {
+    flex: 1;
+    padding: 0.8rem;
+    border: 1px solid #ddd;
+    border-radius: 5px 0 0 5px;
+    font-size: 1rem;
+}
+
+.search-box button {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 0 1.5rem;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.search-box button:hover {
+    background: #ff5252;
+}
+
+.food-item {
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.food-item:hover {
+    transform: translateY(-5px);
+}
